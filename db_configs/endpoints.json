@@ -1,0 +1,19 @@
+[{
+  "_id": {
+    "$oid": "60e3269639695c01769e2c87"
+  },
+  "endpoint": "/first-search",
+  "name": "Busqueda Corta"
+},{
+  "_id": {
+    "$oid": "60e327a239695c01769e2c88"
+  },
+  "name": "Busqueda Normal",
+  "endpoint": "/search"
+},{
+  "_id": {
+    "$oid": "60e327d139695c01769e2c89"
+  },
+  "name": "Busqueda Larga",
+  "endpoint": "/long-search"
+}]
